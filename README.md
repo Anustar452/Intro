@@ -2,7 +2,7 @@
 - 👀 I’m interested in building mobile and web apps
 - 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate on flutter based and laravel projects
-- 📫 How to reach me ...
+- 📫 https://t.me/Anusha452
 
 <!---
 Anustar452/Anustar452 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
